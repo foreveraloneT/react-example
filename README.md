@@ -1,0 +1,6 @@
+- ES6
+- Arrow Function
+- Destructure
+- Promise
+- https://www.babelcoder.com/blog/posts/introduction-to-es2015
+- https://www.babelcoder.com/blog/posts/avoid-callback-hell-using-promise-async-await
